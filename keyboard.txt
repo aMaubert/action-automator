@@ -1,0 +1,17 @@
+keyboard press: 162
+keyboard press: 162
+keyboard press: 162
+keyboard press: 162
+keyboard press: 91
+keyboard press: 68
+keyboard release: 68
+keyboard release: 162
+keyboard release: 91
+keyboard press: 162
+keyboard press: 91
+keyboard press: 37
+keyboard release: 37
+keyboard press: 39
+keyboard release: 39
+keyboard release: 162
+keyboard release: 91
